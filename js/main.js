@@ -1,5 +1,5 @@
 
-var elem = document.getElementById("forgetPass");
+var elem = document.getElementById("header-of-login-form");
 elem.addEventListener("click", clicked);
 
 function clicked() {
